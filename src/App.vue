@@ -88,17 +88,22 @@
     <!-- Footer fijo -->
     <footer class="fixed bottom-4 left-0 right-0 flex justify-center z-40">
       <div class="bg-white/90 backdrop-blur rounded-full px-4 py-2 shadow flex items-center gap-4">
-        <a href="https://github.com/yourusername" target="_blank" class="flex items-center gap-2 hover:underline">
+        <a href="https://jcesar206.github.io/myPersonalBlog/" target="_blank" class="flex items-center gap-2 hover:underline">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.73.5.5 5.73.5 12c0 5.08 3.29 9.39 7.86 10.91.57.1.78-.25.78-.55 0-.27-.01-1.15-.02-2.08-3.2.7-3.88-1.39-3.88-1.39-.52-1.33-1.27-1.68-1.27-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.75 1.18 1.75 1.18 1.02 1.75 2.67 1.25 3.32.96.1-.75.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.7 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.47.11-3.06 0 0 .97-.31 3.18 1.18.92-.26 1.91-.39 2.89-.39.98 0 1.97.13 2.89.39 2.2-1.49 3.17-1.18 3.17-1.18.62 1.59.23 2.77.11 3.06.74.81 1.18 1.84 1.18 3.1 0 4.43-2.7 5.4-5.27 5.68.41.35.77 1.04.77 2.1 0 1.52-.01 2.75-.01 3.12 0 .3.2.66.79.55C20.71 21.39 24 17.08 24 12c0-6.27-5.23-11.5-12-11.5z"/></svg>
+          <span class="text-sm">Home Page</span>
+        </a>
+
+        <a href="https://github.com/JCesar206" target="_blank" class="flex items-center gap-2 hover:underline">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.73.5.5 5.73.5 12c0 5.08 3.29 9.39 7.86 10.91.57.1.78-.25.78-.55 0-.27-.01-1.15-.02-2.08-3.2.7-3.88-1.39-3.88-1.39-.52-1.33-1.27-1.68-1.27-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.75 1.18 1.75 1.18 1.02 1.75 2.67 1.25 3.32.96.1-.75.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.7 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.47.11-3.06 0 0 .97-.31 3.18 1.18.92-.26 1.91-.39 2.89-.39.98 0 1.97.13 2.89.39 2.2-1.49 3.17-1.18 3.17-1.18.62 1.59.23 2.77.11 3.06.74.81 1.18 1.84 1.18 3.1 0 4.43-2.7 5.4-5.27 5.68.41.35.77 1.04.77 2.1 0 1.52-.01 2.75-.01 3.12 0 .3.2.66.79.55C20.71 21.39 24 17.08 24 12c0-6.27-5.23-11.5-12-11.5z"/></svg>
           <span class="text-sm">GitHub</span>
         </a>
 
-        <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="flex items-center gap-2 hover:underline">
+        <a href="https://www.linkedin.com/in/jcesar206" target="_blank" class="flex items-center gap-2 hover:underline">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM.5 8h4V24h-4zM9 8h3.8v2.2h.1c.5-.9 1.7-1.9 3.5-1.9 3.8 0 4.5 2.5 4.5 5.8V24H19v-7.3c0-1.7 0-3.8-2.3-3.8-2.3 0-2.7 1.8-2.7 3.6V24H9z"/></svg>
           <span class="text-sm">LinkedIn</span>
         </a>
 
-        <a href="mailto:youremail@hotmail.com" class="flex items-center gap-2 hover:underline">
+        <a href="mailto:jcesar206@hotmail.com" class="flex items-center gap-2 hover:underline">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12.713L.8 4.5V20h22.4V4.5L12 12.713zM12 2 0 9l12 7 12-7L12 2z"/></svg>
           <span class="text-sm">Hotmail</span>
         </a>
