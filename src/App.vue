@@ -221,11 +221,11 @@ const clearFields = () => {
       <!-- Footer -->
       <footer class="w-full bg-gray-200 dark:bg-gray-800 text-center py-4 mt-6 font-semibold">
         <div class="flex justify-center gap-6 mb-2">
-          <a href="https://jcesar206.github.io/myPersonalBlog/" target="_blank" class="hover:underline">Home Page</a>
-          <a href="https://github.com/JCesar206" target="_blank" class="hover:underline">GitHub</a>
-          <a href="https://www.linkedin.com/in/jcesar206" target="_blank" class="hover:underline">LinkedIn</a>
-          <a href="mailto:jcesar206@hotmail.com" class="hover:underline">Hotmail</a>
-          <a href="mailto:jcesary06@gtmail.com" class="hover:underline">Gmail</a>
+          <a href="https://jcesar206.github.io/myPersonalBlog/" target="_blank" class="hover:underline italic font-semibold">Home Page</a>
+          <a href="https://github.com/JCesar206" target="_blank" class="hover:underline italic font-semibold">Github</a>
+          <a href="https://www.linkedin.com/in/jcesar206" target="_blank" class="hover:underline italic font-semibold">LinkedIn</a>
+          <a href="mailto:jcesar206@hotmail.com" class="hover:underline italic font-semibold">Hotmail</a>
+          <a href="mailto:jcesary06@gtmail.com" class="hover:underline italic font-semibold">Gmail</a>
         </div>
         <p class="text-sm">&copy; {{ new Date().getFullYear() }} Personal Finance | Juls | All right reserved.</p>
       </footer>
